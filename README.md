@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @paulmarinos
-- 👀 I’m interested in open-source software development
 - 🌱 I’m currently studying Cybersecurity at NYU's Tandon School of Engineering
-- 💞️ I’m looking to collaborate on anything fun
 - 📫 How to reach me: pem9880@nyu.edu, marinos21paul@gmail.com
 
 <!---
