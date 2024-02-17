@@ -1,5 +1,5 @@
-- 🌱 I’m currently studying Cybersecurity at NYU's Tandon School of Engineering
-- 📫 How to reach me: pem9880@nyu.edu, marinos21paul@gmail.com
+- I’m currently studying Cybersecurity at NYU's Tandon School of Engineering
+- How to reach me: pem9880@nyu.edu, marinos21paul@gmail.com
 
 <!---
 paulmarinos/paulmarinos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
