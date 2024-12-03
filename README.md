@@ -1,6 +1,7 @@
 - I’m currently studying Cybersecurity at NYU's Tandon School of Engineering
-- I'm currently mostly working on private repo's
 - How to reach me: pem9880@nyu.edu, marinos21paul@gmail.com
+- mostly working on private repo's at the moment
+
 
 <!---
 paulmarinos/paulmarinos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
