@@ -1,6 +1,6 @@
 - I’m currently studying Cybersecurity at NYU's Tandon School of Engineering
 - How to reach me: pem9880@nyu.edu, marinos21paul@gmail.com
-- mostly working on private repo's at the moment
+- Mostly contributing to private repositories at the moment
 
 
 <!---
