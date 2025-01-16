@@ -1,7 +1,7 @@
 - I’m currently studying Cybersecurity at NYU's Tandon School of Engineering
 - How to reach me: pem9880@nyu.edu, marinos21paul@gmail.com
 - I'm mostly contributing to private repositories at the moment
-- I'm currently working on characters and character traits
+- I'm most interested in characters and character traits
 
 
 
